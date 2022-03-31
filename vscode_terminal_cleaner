@@ -1,0 +1,5 @@
+# A simple terminal cleaner for vscode
+import os
+
+os.system('cls')
+#Then write your code below
